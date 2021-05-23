@@ -7,7 +7,7 @@
 ```
 getrevshell.py <port>
 ```
-![Test Image 1](https://github.com/mrrobot1o1/ReverseShell/blob/main/Img-1.png)
+![Test Image 1](Img-1.png)
 ## Installation
 ```bash
 git clone https://github.com/mrrobot1o1/ReverseShell.git
